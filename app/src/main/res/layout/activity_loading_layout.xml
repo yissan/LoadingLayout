@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.qiangyuyang.demo.widget.CommonLoadingLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loadingLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="计算机代理费了看似简单傅雷家书的法律会计师的浪费空间塑料袋看风景塑料袋看风景说楼顶会计法世纪东方塑料袋看风景说楼顶会计法说楼顶会计法商店里会计法商店里看风景商店里会计法sdk龙卷风老师的傅雷家书东方丽景商店里放假计算机代理费了看似简单傅雷家书的法律会计师的浪费空间塑料袋看风景塑料袋看风景说楼顶会计法世纪东方塑料袋看风景说楼顶会计法说楼顶会计法商店里会计法商店里看风景商店里会计法sdk龙卷风老师的傅雷家书东方丽景商店里放假计算机代理费了看似简单傅雷家书的法律会计师的浪费空间塑料袋看风景塑料袋看风景说楼顶会计法世纪东方塑料袋看风景说楼顶会计法说楼顶会计法商店里会计法商店里看风景商店里会计法sdk龙卷风老师的傅雷家书东方丽景商店里放假计算机代理费了看似简单傅雷家书的法律会计师的浪费空间塑料袋看风景塑料袋看风景说楼顶会计法世纪东方塑料袋看风景说楼顶会计法说楼顶会计法商店里会计法商店里看风景商店里会计法sdk龙卷风老师的傅雷家书东方丽景商店里放假计算机代理费了看似简单傅雷家书的法律会计师的浪费空间塑料袋看风景塑料袋看风景说楼顶会计法世纪东方塑料袋看风景说楼顶会计法说楼顶会计法商店里会计法商店里看风景商店里会计法sdk龙卷风老师的傅雷家书东方丽景商店里放假计算机代理费了看似简单傅雷家书的法律会计师的浪费空间塑料袋看风景塑料袋看风景说楼顶会计法世纪东方塑料袋看风景说楼顶会计法说楼顶会计法商店里会计法商店里看风景商店里会计法sdk龙卷风老师的傅雷家书东方丽景商店里放假"/>
+</com.qiangyuyang.demo.widget.CommonLoadingLayout>

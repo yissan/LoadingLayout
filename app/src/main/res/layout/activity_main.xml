@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/white"
+              android:orientation="vertical">
+
+    <Button
+        android:id="@+id/default_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loadingView默认使用"/>
+
+    <Button
+        android:id="@+id/custom_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loadingView自定义加载,加载失败，无数据视图"/>
+
+    <Button
+        android:id="@+id/layout_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="loadingLayout使用"/>
+</LinearLayout>
+
+
+
