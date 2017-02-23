@@ -80,3 +80,16 @@ public class LoadingLayoutActivity extends AppCompatActivity {
 
 }
 ```
+
+
+3、自定义加载、加载错误、等视图。
+
+```
+        ProgressBar progressBar = new ProgressBar(this);
+        this.mLoadingLayout.setLoadingView(progressBar);
+        TextView textView = new TextView(this);
+        textView.setText("加载失败...");
+        this.mLoadingLayout.setLoadingErrorView(textView);
+
+        mLoadingLayout.load();
+```
