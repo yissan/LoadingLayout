@@ -5,6 +5,7 @@ This is a view for simplify the operation to loading
 一个app加载数据通常是显示加载状态，加载成功之后显示主内容视图，如果是列表数据的话如ListView，GridView，RecyclerView一般就不用设置主内容视图隐藏了，
 但是如果主视图有些控件如TextView会带效果而不是一片空白的，我们通常需要隐藏主视图，在请求到数据之后回填数据并显示主视图，而这些事情在代码里设置总是很麻烦，
 该控件的目的就是为了简化这些步骤。
+![这里写图片描述](http://img.blog.csdn.net/20170223111403830?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWlzc2Fu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 # 特点
@@ -12,8 +13,6 @@ This is a view for simplify the operation to loading
 
 
 2、支持自定义各种视图，只需要把你要显示的视图set进去即可
-
-
 ![这里写图片描述](http://img.blog.csdn.net/20170118131628163?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveWlzc2Fu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
